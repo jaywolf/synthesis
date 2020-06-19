@@ -1,2 +1,5 @@
 # synthesis
-exploring synthesis with Pure Data (Pd)
+Exploring synthesis with Pure Data (Pd)
+
+Pure Data documentation
+http://msp.ucsd.edu/Pd_documentation/x2.htm
